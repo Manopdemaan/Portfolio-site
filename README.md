@@ -2,8 +2,7 @@
 
 ## Over Mij
 
-Hallo! Mijn naam is Richy Gomez en ik ben een mbo-student die gepassioneerd is over technologie en programmeren. Ik ben momenteel bezig met het leren van verschillende programmeertalen en technologieën, waaronder HTML, CSS, JavaScript, Python en PHP. Mijn doel is om een succesvolle carrière te beginnen in de softwareontwikkeling.
-
+Hallo! Mijn naam is Richy Gomez en ik ben een mbo-student die gepassioneerd is over programmeren. Ik ben momenteel bezig met het leren van verschillende programmeertalen en technologieën, waaronder HTML, CSS, JavaScript, Python en PHP. 
 ## Vaardigheden
 
 - **HTML & CSS**: Ik heb ervaring met het maken van responsieve websites en het toepassen van designprincipes.
